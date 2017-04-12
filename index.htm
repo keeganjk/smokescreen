@@ -14,6 +14,7 @@
     <script>
       
       var url;
+      var myWindow;
       
       // Add your own URLs to this list!
       var list = [
@@ -32,11 +33,19 @@
       function getRandom(min, max) {
         
         url = ( Math.floor(Math.random() * (max - min)) + min );
-        window.open(list[url]);
+        myWindow = window.open(list[url]);
+        window.setTimeout(closePage(), 3000);
+        
+      }
+      
+      function closePage() {
+       
+        myWindow.close();
+        getRandom(0, list.length);
         
       }
     
-      window.setInterval( getRandom(0, list.length), 3000 );
+      getRandom(0, list.length);
     
     </script>
   
