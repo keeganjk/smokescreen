@@ -13,8 +13,10 @@
   
     <script>
       
+      var url;
+      
       // Add your own URLs to this list!
-      list = [
+      var list = [
         "https://google.com", 
         "https://yahoo.com",
         "https://bing.com", 
@@ -22,16 +24,18 @@
         "www.cnn.com", 
         "www.fox.com", 
         "www.bbc.co.uk",
-        
+        "https://wikipedia.com"
         ];
       
       function getRandom(min, max) {
         
-        alert( Math.floor(Math.random() * (max - min)) + min );
+        url = ( Math.floor(Math.random() * (max - min)) + min );
       
       }
     
       getRandom(0, list.length);
+      window.open(url);
+      window.close();
     
     </script>
   
