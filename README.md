@@ -1,10 +1,12 @@
 # smokescreen
-~~~
-   _____               ___          ___      ___      ___   ___   ___  
- //     \\ ||\\ //|| //   \\ || // |       //   \\   /   \ |   \ |    |\   |
- \\_____   || \/  || ||   || ||//  |===    \\___     |     |___/ |--- | \  |
-        \\ || ||  || ||   || ||\\  |            \\   |     | \   |    |  \ |
- \\_____// || ||  || \\___// || \\ L___    \\___//   \___/ |  \  L___ |   \|
+~~~                                      
+                     )                                       
+        )         ( /(    (            (      (    (         
+ (     (      (   )\())  ))\   (    (  )(    ))\  ))\  (     
+ )\    )\  '  )\ ((_)\  /((_)  )\   )\(()\  /((_)/((_) )\ )  
+((_) _((_))  ((_)| |(_)(_))   ((_) ((_)((_)(_)) (_))  _(_/(  
+(_-<| '  \()/ _ \| / / / -_)  (_-</ _|| '_|/ -_)/ -_)| ' \)) 
+/__/|_|_|_| \___/|_\_\ \___|  /__/\__||_|  \___|\___||_||_|  
 ~~~
 
-A script that constantly opens random sites from a list to make a "smokescreen" over your browser history.
+A JavaScript program that constantly opens random sites from a list to make a "smokescreen" over your browser history.
