@@ -30,11 +30,11 @@
       function getRandom(min, max) {
         
         url = ( Math.floor(Math.random() * (max - min)) + min );
-      
+        window.open(list[url]);
+        
       }
     
       getRandom(0, list.length);
-      window.open(list[url]);
     
     </script>
   
