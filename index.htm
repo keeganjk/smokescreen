@@ -36,26 +36,6 @@
       
       var url;
       var myWindow;
-      var cba1;
-      var cba2;
-      var cba3;
-      var cba4;
-      var cba5;
-      var cba6;
-      var cba7;
-      var cba8;
-      var cba9;
-      var cba10;
-      var cba11;
-      var cba12;
-      var cba13;
-      var cba14;
-      var cba15;
-      var cba16;
-      var cba17;
-      var cba18;
-      var cba19;
-      var cba20;
       var abc123 = [
         'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
         '1', '2', '3', '4', '5', '6', '7', '8', '9', '0'
@@ -64,26 +44,7 @@
       // Add your own URLs to this list!
       var list = [
         "https://google.com",
-          "https://google.com/search?q=" + abc[cba1],
-          "https://google.com/search?q=" + abc[cba2],
-          "https://google.com/search?q=" + abc[cba3],
-          "https://google.com/search?q=" + abc[cba4],
-          "https://google.com/search?q=" + abc[cba5],
-          "https://google.com/search?q=" + abc[cba6],
-          "https://google.com/search?q=" + abc[cba7],
-          "https://google.com/search?q=" + abc[cba8],
-          "https://google.com/search?q=" + abc[cba9],
-          "https://google.com/search?q=" + abc[cba10],
-          "https://google.com/search?q=" + abc[cba11],
-          "https://google.com/search?q=" + abc[cba12],
-          "https://google.com/search?q=" + abc[cba13],
-          "https://google.com/search?q=" + abc[cba14],
-          "https://google.com/search?q=" + abc[cba15],
-          "https://google.com/search?q=" + abc[cba16],
-          "https://google.com/search?q=" + abc[cba17],
-          "https://google.com/search?q=" + abc[cba18],
-          "https://google.com/search?q=" + abc[cba19],
-          "https://google.com/search?q=" + abc[cba20],
+          "https://google.com/search?q=" + abc[( Math.floor(Math.random() * (abc123.length - 0)) + 0 ); ],
         "https://yahoo.com",
         "https://bing.com", 
         "https://duckduckgo.com",
@@ -98,26 +59,6 @@
       function getRandom(min, max) {
         
         url = ( Math.floor(Math.random() * (max - min)) + min );
-        cba1 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba2 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba3 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba4 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba5 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba6 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba7 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba8 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba9 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba10 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba11 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba12 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba13 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba14 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba15 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba16 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba17 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba18 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba19 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
-        cba20 = ( Math.floor(Math.random() * (abc123.length - min)) + min ); 
         myWindow = window.open(list[url]);
         window.setTimeout(closePage, 3000);
         
