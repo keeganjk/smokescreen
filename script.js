@@ -130,9 +130,9 @@ var list = [
       "http://www.target.com",
       "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", "https://www.walmart.com", 
       // Social
-      "https://www.buzzfeed.com",
-      "https://www.facebook.com",
-      "https://www.instagram.com",
+      "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", "https://www.buzzfeed.com", 
+      "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", "https://www.facebook.com", 
+      "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", "https://www.instagram.com", 
       "https://www.linkedin.com",
       "https://plus.google.com",
       "https://www.snapchat.com",
