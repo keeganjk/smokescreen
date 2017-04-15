@@ -171,7 +171,7 @@ var list = [
       "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", "https://bustle.com", 
       "http://go.com",
       "http://www.legacy.com",
-      "https://quizlet.com",
+      "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", "https://quizlet.com", 
       "http://www.ranker.com",
       "http://shareably.net",
       "http://www.webmd.com",
