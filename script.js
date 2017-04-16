@@ -178,7 +178,10 @@ var list = [
       "http://www.webmd.com",
       "http://www.whitepages.com",
       ];
-      
+
+// Adds random Answers searches
+
+
 // Adds random BBC searches
 list.push("http://www.bbc.co.uk/search?q=" + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )]); 
 list.push("http://www.bbc.co.uk/search?q=" + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )]); 
