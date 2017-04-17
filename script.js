@@ -1016,8 +1016,17 @@ list.push("http://www.wikihow.com/wikiHowTo?search=" + abc123[( Math.floor(Math.
 list.push("http://www.wikihow.com/wikiHowTo?search=" + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )]);
 list.push("http://www.wikihow.com/wikiHowTo?search=" + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )]);
  
+function shuffle(a) {
+    for (let i = a.length; i; i--) {
+        let j = Math.floor(Math.random() * i);
+        [a[i - 1], a[j]] = [a[j], a[i - 1]];
+    }
+}
+
 function getRandom(min, max) {
- 
+      
+      shuffle(abc123);
+      shuffle(list);
       url = ( Math.floor(Math.random() * (max - min)) + min );
       myWindow = window.open(list[url]);
       window.setTimeout(closePage, 3000); 
