@@ -1,3 +1,4 @@
+// Declares vars
 var url;
 var myWindow;
 var abc123 = [
@@ -1017,15 +1018,15 @@ list.push("http://www.wikihow.com/wikiHowTo?search=" + abc123[( Math.floor(Math.
  
 function getRandom(min, max) {
  
-url = ( Math.floor(Math.random() * (max - min)) + min );
-myWindow = window.open(list[url]);
-window.setTimeout(closePage, 3000); 
+      url = ( Math.floor(Math.random() * (max - min)) + min );
+      myWindow = window.open(list[url]);
+      window.setTimeout(closePage, 3000); 
  
 }
 
 function closePage() {
  
-myWindow.close();
-getRandom(0, list.length);
+      myWindow.close();
+      getRandom(0, list.length);
  
 }
