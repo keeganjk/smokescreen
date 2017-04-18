@@ -18,5 +18,5 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 ## How to use it
 ### Install
 Firstly, on any OS, you would navigate to https://github.com/keeganjk/smokescreen. Once on this page, click the button that says "Clone or Download".
-<img href="https://raw.githubusercontent.com/keeganjk/smokescreen/261fc76b239063f7f79f0c773299bb997d27f9de/download.PNG">
+<img href="http://imgur.com/iEzDryi">
 <h5>If you are on Unix (Linux, macOS, or BSD), you can type 'git clone https://github.com/keeganjk/smokescreen' into the terminal to clone this repository.</h5>
