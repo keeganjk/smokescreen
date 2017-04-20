@@ -11,6 +11,13 @@
 
 A JavaScript program that constantly opens random sites from a list to make a "smokescreen" over your browser history.
 
+### Supported platforms:
+> <h5>Any OS with a modern web browser</h5>
+### Supported browsers:
+> <h5>Google Chrome<sup>*</sup></h5>
+> <hr />
+> <h6><sup>*</sup>Other browser support is being worked on...</h6>
+
 ## What is it?
 Smokescreen is a simple JavaScript program that randomly opens sites from a long list of popular URLs from many categories. This will act as a mask, or "smokescreen" over your browsing history, to troll, confuse, and confound the prying eyes of those who may be spying on your browser history.
 ### Why?
