@@ -1,4 +1,5 @@
 // Declares vars
+var millisecs = 3000;
 var url;
 var myWindow;
 var abc123 = [
@@ -1023,13 +1024,13 @@ function shuffle(a) {
     }
 }
 
-function getRandom(min, max) {
+function getRandom(min, max, millisecs) {
       
       shuffle(abc123);
       shuffle(list);
       url = ( Math.floor(Math.random() * (max - min)) + min );
       myWindow = window.open(list[url]);
-      window.setTimeout(closePage, 3000); 
+      window.setTimeout(closePage, millisecs); 
  
 }
 
