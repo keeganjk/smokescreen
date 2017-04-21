@@ -1036,6 +1036,6 @@ function getRandom(min, max, millisecs) {
 function closePage() {
  
       myWindow.close();
-      getRandom(0, list.length);
+      getRandom(0, list.length, millisecs);
  
 }
