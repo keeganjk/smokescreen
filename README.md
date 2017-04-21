@@ -24,7 +24,7 @@ Smokescreen is a simple JavaScript program that randomly opens sites from a long
 In 2017, the US president signed a bill that would allow ISPs to obtain access to your browser history and sell it to whoever they please. This could mean government agencies, large advertisement businesses, or if they really wanted to, your creepy neighbor next-door. This will make it more difficult for your ISPs to find or sell real history to others, thus preventing your information from being compromised.
 ## How to use it
 ### Install
-> 1.
+> > 1.
 > Firstly, on any OS, you would navigate to https://github.com/keeganjk/smokescreen. Once on this page, click the button that says "Clone or Download".
 > <br />
 > ![Clone or Download](https://github.com/keeganjk/smokescreen/blob/master/images/download.gif?raw=true "")
