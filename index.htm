@@ -33,7 +33,9 @@
       
       <p align="center" style="font-family:monospace">Milliseconds to wait before closing page: (1000ms = 1sec)</p>
       <p id="one" align="center" style="font-family:monospace"></p>
-      <button onclick="millisecs = prompt('New time to wait (in millisecs)?');" style="font-family:monospace" align="center">Set Wait Time</button>
+      <button onclick="millisecs = prompt('New time to wait (in millisecs)?'); document.getElementById('one').innerHTML = millisecs;" style="font-family:monospace" align="center">Set Wait Time</button>
+      <p align="center" style="font-family:monospace">WARNING: Do not set below 3000 milliseconds; this will cause extreme speed and possibly crashing and difficulty to stop the script.</p>
+      <br />
       
       <button onclick="getRandom(0, list.length, millisecs);" style="font-family:monospace" align="center">Start!</button>
       
