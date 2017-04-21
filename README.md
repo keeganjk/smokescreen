@@ -31,10 +31,13 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 > <h5>If you are on Unix (Linux, macOS, or BSD), you can type 'git clone https://github.com/keeganjk/smokescreen' into the terminal to > clone this repository.</h5>
 
 > #### 2.
-> Nextly, open 'index.htm' in any web modern browser.
+> Nextly, open <code>index.htm</code> in any web modern browser.
 > ![Clicking on index.htm](https://github.com/keeganjk/smokescreen/blob/master/images/index.GIF?raw=true "")
 
-> #### 3.
-> After opening 'index.htm', you have to enable pop-ups and JavaScript (for 'index.htm').
-> On Chrome, go to ![Three Vertical Dots](https://qph.ec.quoracdn.net/main-qimg-6ac20dad575fe03c5616232971bfa94e.webp "") > <code>Settings</code> > <code>Show advanced settings</code> > <code>Privacy</code> > <code>Content Settings</code>. In this menu, allow JavaScript on all sites or click on <code>Manage Exceptions</code>.
-
+> #### 3a.
+> After opening <code>index.htm</code>, you have to enable pop-ups and JavaScript (for <code>index.htm</code>).<sup>*</sup>
+> On Chrome, go to ![Three Vertical Dots](https://qph.ec.quoracdn.net/main-qimg-6ac20dad575fe03c5616232971bfa94e.webp "") > <code>Settings</code> > <code>Show advanced settings</code> > <code>Privacy</code> > <code>Content Settings</code>.<sup>*</sup>
+> In this menu, allow <code>JavaScript</code> on all sites.<sup>*</sup>
+> While in this menu, allow <code>Pop-ups</code> on all sites.<sup>*</sup>
+> <hr>
+> <sup>*</sup> If you don't want to allow all sites to have JavaScript and/or Pop-ups, skip to <code>3b</code>.
