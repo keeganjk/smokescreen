@@ -14,10 +14,9 @@ A JavaScript program that constantly opens random sites from a list to make a "s
 ### Supported platforms:
 > <h5>Any OS with a modern web browser</h5>
 ### Supported browsers:
+> <h5>Firefox</h5>
 > <h5>Google Chrome</h5>
 > <h5>Microsoft Edge</h5>
-> <hr />
-> <h6>Other browser support is being worked on; other browsers may work still, just not <i>supported</i>.</h6>
 
 ## What is it?
 Smokescreen is a simple JavaScript program that randomly opens sites from a long list of popular URLs from many categories. This will act as a mask, or "smokescreen" over your browsing history, to troll, confuse, and confound the prying eyes of those who may be spying on your browser history.
@@ -51,7 +50,8 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 
 <hr>
 
-> ### 5. Click Start
-> Click the button that says, "Start!" and random pages will randomly open and close.
+> ### 5. Set Wait Time and Click Start
+> Click the button that says "Set Wait Time" and then set a time to wait in milliseconds between page closes.
+> Next, click the button that says, "Start!" and random pages will randomly open and close.
 > To stop the process, close the page with "Smokescreen" in the title.
-> > WARNING! If you have a data limit, do not use this program unless you expect to be charged or prevented from continuing web browsing; this uses random page generation to pollute, or make a "smokescreen" over your browser history.
+> > WARNING! If you have a data limit, do not use this program unless you expect to be charged or prevented from continuing web browsing; this uses random page generation to pollute, or make a "smokescreen" over your browser history. Also, putting the wait time too low can cause crashes, denial-of-service to yourself, and difficulty to stop the script.
