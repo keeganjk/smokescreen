@@ -1,5 +1,4 @@
 // Declares vars
-var millisecs = 3000;
 var url;
 var myWindow;
 var abc123 = [
