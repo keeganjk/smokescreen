@@ -17,7 +17,7 @@ A JavaScript program that constantly opens random sites from a list to make a "s
 > <h5>Google Chrome</h5>
 > <h5>Microsoft Edge</h5>
 > <hr />
-> <h6><sup>*</sup>Other browser support is being worked on; other browsers may work still, just not <i>supported</i>.</h6>
+> <h6>Other browser support is being worked on; other browsers may work still, just not <i>supported</i>.</h6>
 
 ## What is it?
 Smokescreen is a simple JavaScript program that randomly opens sites from a long list of popular URLs from many categories. This will act as a mask, or "smokescreen" over your browsing history, to troll, confuse, and confound the prying eyes of those who may be spying on your browser history.
@@ -32,7 +32,7 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 > <h5>If you are on Unix (Linux, macOS, or BSD), you can type 'git clone https://github.com/keeganjk/smokescreen' into the terminal to > clone this repository.</h5>
 
 > #### 2.
-> Nextly, extract the downloaded ZIP (unless <code>clon</code>ing through Terminal in Unix) and then move into the <code>smokescreen</code> folder.
+> Nextly, extract the downloaded ZIP (unless you <code>clone</code>d this program through the Unix terminal) and then move into the <code>smokescreen</code> folder.
 
 > #### 3.
 > Nextly, open <code>index.htm</code> in any web modern browser.
