@@ -28,7 +28,7 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 > Firstly, on any OS, you would navigate to https://github.com/keeganjk/smokescreen. Once on this page, click the button that says "Clone or Download" and then "Download as ZIP".
 > <br />
 > ![Clone or Download](https://github.com/keeganjk/smokescreen/blob/master/images/download.gif?raw=true "")
-<br />
+> <br />
 > If you are on Unix (Linux, macOS, or BSD), you can type 'git clone https://github.com/keeganjk/smokescreen' into the terminal to > clone this repository and then <code>mv</code> into the directory. If you do this, skip to step 3.
 
 > ### 2. Extract files
