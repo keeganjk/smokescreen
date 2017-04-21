@@ -33,3 +33,8 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 > #### 2.
 > Nextly, open 'index.htm' in any web modern browser.
 > ![Clicking on index.htm](https://github.com/keeganjk/smokescreen/blob/master/images/index.GIF?raw=true "")
+
+> #### 3.
+> After opening 'index.htm', you have to enable pop-ups and JavaScript (for 'index.htm').
+> On Chrome, go to ![Three Vertical Dots](https://qph.ec.quoracdn.net/main-qimg-6ac20dad575fe03c5616232971bfa94e.webp "") > <code>Settings</code> > <code>Show advanced settings</code> > <code>Privacy</code> > <code>Content Settings</code>. In this menu, allow JavaScript on all sites or click on <code>Manage Exceptions</code>.
+
