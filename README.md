@@ -14,7 +14,8 @@ A JavaScript program that constantly opens random sites from a list to make a "s
 ### Supported platforms:
 > <h5>Any OS with a modern web browser</h5>
 ### Supported browsers:
-> <h5>Google Chrome<sup>*</sup></h5>
+> <h5>Google Chrome</h5>
+> <h5>Microsoft Edge</h5>
 > <hr />
 > <h6><sup>*</sup>Other browser support is being worked on; other browsers may work still, just not <i>supported</i>.</h6>
 
@@ -25,19 +26,24 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 ## How to use it
 ### Install
 > #### 1.
-> Firstly, on any OS, you would navigate to https://github.com/keeganjk/smokescreen. Once on this page, click the button that says "Clone or Download".
+> Firstly, on any OS, you would navigate to https://github.com/keeganjk/smokescreen. Once on this page, click the button that says "Clone or Download" and then "Download as ZIP".
 > <br />
 > ![Clone or Download](https://github.com/keeganjk/smokescreen/blob/master/images/download.gif?raw=true "")
 > <h5>If you are on Unix (Linux, macOS, or BSD), you can type 'git clone https://github.com/keeganjk/smokescreen' into the terminal to > clone this repository.</h5>
 
 > #### 2.
+> Nextly, extract the downloaded ZIP (unless <code>clon</code>ing through Terminal in Unix) and then move into the <code>smokescreen</code> folder.
+
+> #### 3.
 > Nextly, open <code>index.htm</code> in any web modern browser.
 > ![Clicking on index.htm](https://github.com/keeganjk/smokescreen/blob/master/images/index.GIF?raw=true "")
 
-> #### 3a.
-> After opening <code>index.htm</code>, you have to enable pop-ups and JavaScript (for <code>index.htm</code>).<sup>*</sup>
-> On Chrome, go to ![Three Vertical Dots](https://qph.ec.quoracdn.net/main-qimg-6ac20dad575fe03c5616232971bfa94e.webp "") > <code>Settings</code> > <code>Show advanced settings</code> > <code>Privacy</code> > <code>Content Settings</code>.<sup>*</sup>
-> In this menu, allow <code>JavaScript</code> on all sites.<sup>*</sup>
-> While in this menu, allow <code>Pop-ups</code> on all sites.<sup>*</sup>
-> <hr>
-> <sup>*</sup> If you don't want to allow all sites to have JavaScript and/or Pop-ups, skip to <code>3b</code>.
+> #### 4.
+> After opening <code>index.htm</code>, you have to enable pop-ups and JavaScript (for <code>index.htm</code>).
+> This will be different in every browser, but it is usually in Settings.
+> JavaScript will most likely be enabled, but Pop-ups may be disabled.
+
+> #### 5.
+> Click the button that says, "Start!" and random pages will randomly open and close.
+> To stop the process, close the page with "Smokescreen" in the title.
+> > WARNING! If you have a data limit, do not use this program unless you expect to be charged or prevented from continuing web browsing; this uses random page generation to pollute, or make a "smokescreen" over your browser history.
