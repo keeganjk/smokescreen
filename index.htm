@@ -35,7 +35,7 @@
         
         <h4 align="center" style="font-family:monospace">Milliseconds to wait before closing page:</h4>
         <h4 id="one" align="center" style="font-family:monospace"></h4>
-        <button onclick="millisecs = prompt('New time to wait (in millisecs)?'); document.getElementById('one').innerHTML = millisecs;" style="font-family:monospace" align="center">Set Wait Time</button>
+        <button onclick="millisecs = prompt('New time to wait (in milliseconds)?'); if (millisecs === false) {millisecs = millisecsBackup} else {millisecsBackup = millisecs} document.getElementById('one').innerHTML = millisecs;" style="font-family:monospace" align="center">Set Wait Time</button>
         <br />
         <br />
         
@@ -54,6 +54,7 @@
   <script src="script.js"></script>
   <script>
       var millisecs = 3000;
+      var millisecsBackup = 3000;
       document.getElementById("one").innerHTML = millisecs;
   </script>
   
