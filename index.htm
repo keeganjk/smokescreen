@@ -36,7 +36,7 @@
         
         <h4 align="center" style="font-family:monospace">Milliseconds to wait before closing page:</h4>
         <h4 id="one" align="center" style="font-family:monospace"></h4>
-        <button onclick="millisecs = prompt('New time to wait (in milliseconds)?'); if ( isNaN(millisecs) ) {millisecs = millisecsBackup} else {millisecsBackup = millisecs} document.getElementById('one').innerHTML = millisecs;" style="font-family:monospace" align="center">Set Wait Time</button>
+        <button onclick="millisecs = prompt('New time to wait (in milliseconds)?'); if ( isNaN(millisecs) || millisecs === "" ) {millisecs = millisecsBackup} else {millisecsBackup = millisecs} document.getElementById('one').innerHTML = millisecs;" style="font-family:monospace" align="center">Set Wait Time</button>
         <br />
         <br />
         
