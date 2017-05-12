@@ -61,4 +61,4 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 ## Credits
 [Brushed Alum pattern](https://www.toptal.com/designers/subtlepatterns/brushed-alum/ "Brushed Alum Pattern"), Tim Ward
 
-[Raleway Font](https://fonts.google.com/specimen/Raleway "Raleway Font"), Google Fonts, Multiple Designers
+[Raleway Font](https://fonts.google.com/specimen/Raleway "Raleway Font"), [Google Fonts](https://fonts.google.com "Google Fonts"), Multiple Designers
