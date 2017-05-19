@@ -30,7 +30,8 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 > <br />
 > ![Clone or Download](https://github.com/keeganjk/smokescreen/blob/master/images/download.gif?raw=true "")
 > <br />
-> If you are on Unix (Linux, macOS, or BSD), you can type 'git clone https://github.com/keeganjk/smokescreen' into the terminal to > clone this repository and then <code>mv</code> into the directory. If you do this, skip to step 3.
+> If you are on Unix (Linux, macOS, or BSD), you can type <code>git clone https://github.com/keeganjk/smokescreen</code> into the terminal to 
+> clone this repository and then <code>mv</code> into the directory. If you do this, skip to step 3.
 
 <hr>
 
