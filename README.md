@@ -27,6 +27,9 @@ A JavaScript program that constantly opens random sites from a list to make a "s
   - [Extract files](#extract)
     - [Adding your own URLs](#add-own-urls)
   - [Opening files](#open-index)
+  - [Enabling JavaScript and Pop-ups](#enable-js-popups)
+  - [Setting wait time and starting](#set-wait)
+ - [Credits](#credits)
 
 ## What is it? <a id="what-is-it">
 Smokescreen is a simple JavaScript program that randomly opens sites from a long list of popular URLs from many categories. This will act as a mask, or "smokescreen" over your browsing history, to troll, confuse, and confound the prying eyes of those who may be spying on your browser history.
@@ -65,13 +68,13 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 
 <hr>
 
-> ### 5. Set Wait Time and Click Start
+> ### 5. Set Wait Time and Click Start <a id="set-wait">
 > Click the button that says "Set Wait Time" and then set a time to wait in milliseconds between page closes.
 > Next, click the button that says, "Start!" and random pages will randomly open and close.
 > To stop the process, close the page with "Smokescreen" in the title.
 > > <b>WARNING! If you have a data limit, do not use this program unless you expect to be charged or prevented from continuing web browsing; this uses random page generation to pollute, or make a "smokescreen" over your browser history. Also, putting the wait time too low can cause crashes, denial-of-service to yourself, and difficulty to stop the script.</b>
 
-## Credits
+## Credits <a id="credits">
 [Brushed Alum pattern](https://www.toptal.com/designers/subtlepatterns/brushed-alum/ "Brushed Alum Pattern"), Tim Ward
 
 [Raleway Font](https://fonts.google.com/specimen/Raleway "Raleway Font"), [Google Fonts](https://fonts.google.com "Google Fonts"), Multiple Designers
