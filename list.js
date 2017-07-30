@@ -11,7 +11,16 @@ var list = [
             If you want the list to show up as often as everything else, copy it 20 times.
             You can also make it have less copies to show up less frequently or
             more copies to show up more frequently.
-      */
+            
+                              |||
+                              |||
+                              |||
+                              |||
+                              |||
+      */                     \   /
+      //                      \ /
+      //                       V
+      
       // Bank / Payment
       "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", 
       "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", 
