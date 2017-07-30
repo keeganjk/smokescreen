@@ -20,12 +20,20 @@ A JavaScript program that constantly opens random sites from a list to make a "s
 > <h5>Opera</h5>
 > <h5>Safari</h5>
 
-## What is it?
+- [What is it?](#what-is-it)
+- [Why?](#why)
+- [How to use it](#how-to-use-it)
+  - [Download](#dl)
+  - [Extract files](#extract)
+    - [Adding your own URLs](#add-own-urls)
+  - [Opening files](#open-index)
+
+## What is it? <a id="what-is-it">
 Smokescreen is a simple JavaScript program that randomly opens sites from a long list of popular URLs from many categories. This will act as a mask, or "smokescreen" over your browsing history, to troll, confuse, and confound the prying eyes of those who may be spying on your browser history.
-### Why?
+### Why? <a id="why">
 In 2017, the US president signed a bill that would allow ISPs to obtain access to your browser history and sell it to whoever they please. This could mean government agencies, large advertisement businesses, or if they really wanted to, your creepy neighbor next-door. This will make it more difficult for your ISPs to find or sell real history to others, thus preventing your information from being compromised.
-## How to use it
-> ### 1. Download
+## How to use it <a id="how-to-use-it">
+> ### 1. Download <a id="dl">
 > Firstly, on any OS, you would navigate to https://github.com/keeganjk/smokescreen. Once on this page, click the button that says "Clone or Download" and then "Download as ZIP".
 > <br />
 > ![Clone or Download](https://github.com/keeganjk/smokescreen/blob/master/images/download.gif?raw=true "")
@@ -35,19 +43,21 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 
 <hr>
 
-> ### 2. Extract files
+> ### 2. Extract files <a id="extract">
 > Nextly, extract the ZIP file and then move into the <code>smokescreen</code> folder.
-> If you want, you can add your own URLs to `list.js`, surrounded by quotes. Make sure that it begins with `http://` or `https://`, otherwise, the list won't work.
+> <a id="add-own-urls"> If you want, you can add your own URLs to `list.js`, surrounded by quotes. Make sure that it begins with `http://` or `https://`, otherwise, the list won't work.
+> If you want the list to show up as often as everything else, copy it 20 times.
+> You can also make it have less copies to show up less frequently or more copies to show up more frequently.
 
 <hr>
 
-> ### 3. Open 'index.htm'
+> ### 3. Open 'index.htm' <a id="open-index">
 > Open <code>index.htm</code> with any web modern browser.
 > ![Clicking on index.htm](https://github.com/keeganjk/smokescreen/blob/master/images/index.GIF?raw=true "")
 
 <hr>
 
-> ### 4. Enable JavaScript and Pop-ups
+> ### 4. Enable JavaScript and Pop-ups <a id="enable-js-popups">
 > After opening <code>index.htm</code>, you have to enable pop-ups and JavaScript (for <code>index.htm</code>).
 > This will be different in every browser, but it is usually in Settings.
 > JavaScript will most likely be enabled, but Pop-ups may be disabled.
