@@ -44,8 +44,9 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 <hr>
 
 > ### 2. Extract files <a id="extract">
-> Nextly, extract the ZIP file and then move into the <code>smokescreen</code> folder.
-> <a id="add-own-urls"> If you want, you can add your own URLs to `list.js`, surrounded by quotes. Make sure that it begins with `http://` or `https://`, otherwise, the list won't work. <br/><br/>
+> Nextly, extract the ZIP file and then move into the <code>smokescreen</code> folder. <br/><br/>
+> <a id="add-own-urls"> 
+>If you want, you can add your own URLs to `list.js`, surrounded by quotes. Make sure that it begins with `http://` or `https://`, otherwise, the list won't work. <br/><br/>
 > If you want the list to show up as often as everything else, copy it 20 times.
 > You can also make it have less copies to show up less frequently or more copies to show up more frequently.
 
