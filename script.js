@@ -19,6 +19,16 @@ function getRandom(min, max, millisecs) {
  
 }
 
+function addURL() {
+ 
+    newURL = prompt("URL to add:");
+    var count = 0;
+    while (count != 21) {
+        list.push(newURL);
+    }
+    
+}
+
 function closePage() {
  
       myWindow.close();
