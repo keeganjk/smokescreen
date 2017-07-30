@@ -6,21 +6,6 @@ var abc123 = [
       
 // Add your own URLs to this list!
 var list = [
-      /*
-            If you want to, you can add your own URLs below. 
-            If you want the list to show up as often as everything else, copy it 20 times.
-            You can also make it have less copies to show up less frequently or
-            more copies to show up more frequently.
-            
-                              |||
-                              |||
-                              |||
-                              |||
-                              |||
-      */                     \   /
-      //                      \ /
-      //                       V
-      
       // Bank / Payment
       "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", "https://www.bankofamerica.com", 
       "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", "https://www.banksisonline.com", 
@@ -1280,3 +1265,12 @@ list.push("http://www.wikihow.com/wikiHowTo?search=" + abc123[( Math.floor(Math.
 list.push("http://www.wikihow.com/wikiHowTo?search=" + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )]);
 list.push("http://www.wikihow.com/wikiHowTo?search=" + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )] + abc123[( Math.floor(Math.random() * (abc123.length - 0)) + 0 )]);
  
+function addURL(newURL) {
+	
+    var count = 0;
+    while (count != 21) {
+        list.push(newURL);
+		count++;
+    }
+    
+}
