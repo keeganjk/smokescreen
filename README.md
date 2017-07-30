@@ -37,6 +37,7 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 
 > ### 2. Extract files
 > Nextly, extract the ZIP file and then move into the <code>smokescreen</code> folder.
+> If you want, you can add your own URLs to `list.js`, surrounded by quotes. Make sure that it begins with `http://` or `https://`, otherwise, the list won't work.
 
 <hr>
 
