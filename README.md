@@ -72,7 +72,7 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 > Click the button that says "Set Wait Time" and then set a time to wait in milliseconds between page closes.
 > Next, click the button that says, "Start!" and random pages will randomly open and close.
 > To stop the process, close the page with "Smokescreen" in the title.
-> > <b>WARNING! If you have a data limit, do not use this program unless you expect to be charged or prevented from continuing web browsing; this uses random page generation to pollute, or make a "smokescreen" over your browser history. Also, putting the wait time too low can cause crashes, denial-of-service to yourself, and difficulty to stop the script.</b>
+> > <b>WARNING! If you have a data limit, do not use this program unless you expect to be charged extra or prevented from continuing web browsing; this uses random page generation to pollute, or make a "smokescreen" over your browser history. Also, putting the wait time too low can cause crashes, denial-of-service to yourself, and difficulty to stop the script.</b>
 
 ## Credits <a id="credits">
 [Brushed Alum pattern](https://www.toptal.com/designers/subtlepatterns/brushed-alum/ "Brushed Alum Pattern"), Tim Ward
