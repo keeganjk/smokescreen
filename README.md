@@ -1,4 +1,5 @@
 # smokescreen
+[![Donate Bitcoin](https://img.shields.io/badge/donate-bitcoin-orange.svg)](https://blockchain.info/address/12mTakucP9YUvSdpfMJGHmxZGmP23q2SHz)
 ~~~                                      
                                                                )                                       
                          )         ( /(    (            (      (    (         
@@ -10,17 +11,6 @@
 ~~~
 
 A JavaScript program that constantly opens random sites from a list to make a "smokescreen" over your browser history.
-
-<hr>
-
-[Donate Bitcoin](https://blockchain.info/address/12mTakucP9YUvSdpfMJGHmxZGmP23q2SHz "Donate Bitcoin")
-
-<details>
-  <summary>Bitcoin Address:</summary>
-  <code>12mTakucP9YUvSdpfMJGHmxZGmP23q2SHz</code>
-</details>
-
-<hr>
 
 ### Supported platforms:
 > <h5>Any OS with a modern web browser</h5>
