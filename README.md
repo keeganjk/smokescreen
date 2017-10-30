@@ -21,6 +21,7 @@ A JavaScript program that constantly opens random sites from a list to make a "s
 > <h5>Microsoft Edge</h5>
 > <h5>Opera</h5>
 > <h5>Safari</h5>
+> <h5>Tor Browser</h5>
 
 - [What is it?](#what-is-it)
 - [Why?](#why)
