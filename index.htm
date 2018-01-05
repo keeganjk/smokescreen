@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+
+
+  <head>
+
+    <title>Smokescreen</title>
+
+  </head>
+
+  <body align="center" style="font-family:monospace">
+
+	<script src="list.js"></script>
+	<script src="script.js"></script>
+	<script>
+		var millisecs = 3000;
+		var millisecsBackup = 3000;
+		document.getElementById("one").innerHTML = millisecs;
+	</script>
+
+    <h2 align="center" style="font-family:monospace">
+      SmokeScreen v1.1
+    </h2>
+    <h3 align="center" style="font-family:monospace">
+      By keeganjk
+    </h3>
+
+    <h3 align="center" style="font-family:monospace">
+      SmokeScreen is a JavaScript program that opens a random site every 3 seconds,
+    </h3>
+
+    <h3 align="center" style="font-family:monospace">
+      to create a "smokescreen" over your browser history, preventing anyone from [easily] finding your information.
+    </h3>
+
+    <h4 align="center" style="font-family:monospace">To exit, close the original window that has the text "Smokescreen" in the title.</h4>
+
+
+    <p align="center" style="font-family:monospace">
+
+    <h4 align="center" style="font-family:monospace">Please report all issues to <a href="https://github.com/keeganjk/smokescreen/issues">this page</a>. <br />
+      <a href="https://github.com/keeganjk/smokescreen" style="font-family:monospace" align="center">Source Code / Learn More</a></h4> <br />
+      <br /><br />
+
+      <div style="width: 300px; border: 25px solid #f44242; margin:0 auto; font-family:monospace;" align="center">
+
+        <h4 align="center" style="font-family:monospace">Milliseconds to wait before closing page:</h4>
+        <h4 id="one" align="center" style="font-family:monospace"></h4>
+        <button onclick="millisecs = prompt('New time to wait (in milliseconds)?'); if ( isNaN(millisecs) || !millisecs ) {millisecs = millisecsBackup} else {millisecsBackup = millisecs} document.getElementById('one').innerHTML = millisecs;" style="font-family:monospace" align="center">Set Wait Time</button>
+        <br />
+        <br />
+
+      </div>
+      <br />
+
+      <div style="margin:0 auto; font-family:monospace" align="center">
+
+        <button onclick="getRandom(0, list.length, millisecs);" style="font-family:monospace" align="center">Start!</button>
+
+      </div>
+
+    </p>
+
+  </body>
+
+
+
+</html>
