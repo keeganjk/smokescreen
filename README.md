@@ -1,5 +1,6 @@
 # smokescreen
 [![Donate](https://img.shields.io/badge/donate-%24-green.svg)](https://keeganjk.github.io/donate/)
+![JS](https://img.shields.io/badge/javascript--yellow.svg) ![Stable v1.1](https://img.shields.io/badge/stable-v1.1-orange.svg) <br />
 
 ~~~                                      
                                                                )                                       
