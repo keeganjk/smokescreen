@@ -38,7 +38,7 @@ A JavaScript program that constantly opens random sites from a list to make a "s
 ## What is it? <a id="what-is-it">
 Smokescreen is a simple JavaScript program that randomly opens sites from a long list of popular URLs from many categories. This will act as a mask, or "smokescreen" over your browsing history, to troll, confuse, and confound the prying eyes of those who may be spying on your browser history.
 ### Why? <a id="why">
-In 2017, the US president signed a bill that would allow ISPs to obtain access to your browser history and sell it to whoever they want to. This could mean government agencies, advertisement businesses, or if they really wanted to, your creepy next-door neighbor. `Smokescreen` will make it more difficult for your ISPs to find or sell real history to others, thus preventing your information from being compromised.
+In 2017, the US President signed a bill that would allow ISPs to obtain access to your browser history and sell it to whoever they want to. This could mean government agencies, advertisement businesses, or if they really wanted to, your creepy next-door neighbor. `Smokescreen` will make it more difficult for your ISPs to find or sell real history to others, thus preventing your information from being compromised.
 ## How to use it <a id="how-to-use-it">
 > ### 1. Download <a id="dl">
 > Firstly, on any OS, you would navigate to https://github.com/keeganjk/smokescreen. Once on this page, click the button that says "Clone or Download" and then "Download as ZIP".
