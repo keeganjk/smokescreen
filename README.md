@@ -1,5 +1,5 @@
 # smokescreen
-# MOVED TO ![https://gitlab.com/keeganjk/](https://gitlab.com/keeganjk/) !
+# MOVED TO ![https://gitlab.com/keeganjk/smokescreen](https://gitlab.com/keeganjk/) !
 [![Donate](https://img.shields.io/badge/donate-%24-green.svg)](https://keeganjk.github.io/donate/) <br />
 ![JS](https://img.shields.io/badge/javascript--yellow.svg) ![Stable v1.1](https://img.shields.io/badge/stable-v1.1-orange.svg) <br />
 
